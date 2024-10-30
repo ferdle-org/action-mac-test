@@ -20,4 +20,4 @@ jobs:
         run:  python --version
       - name: Print Python3 version
         shell: bash -l {0}
-        run:  python3 --version
+        run:  python --version
